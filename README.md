@@ -16,6 +16,3 @@
 
 ### Até mais devs!
 <img src="https://img.freepik.com/fotos-premium/gato-de-smoking-preto-deitado-olhando-para-cima_772720-3913.jpg" alt="gato_frajola" width="300" heigth="300">
-
-https://github-readme-stats.vercel.app/api?username=sabrinarauj
-
