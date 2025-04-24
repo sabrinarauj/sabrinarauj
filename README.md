@@ -7,7 +7,7 @@
 - Atualmente tenho mais conhecimentos em Front-End, porém buscando mais aprendizados em Back-End e UI/UX
 
 ## Tecnologias: 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" width="50" heigth="25"> <img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="React" width="50" height="50">  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEc9A_S6BPxCDRp5WjMFEfXrpCu1ya2OO-Lw&s" alt="Html" width="50" height="50"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS40m8v5A5TESFFeH4jcGFbE6H6HIjxdLt9sQ&s" alt="CSS" width="50" height="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" width="50" heigth="25"> <img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="React" width="50" height="50">  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEc9A_S6BPxCDRp5WjMFEfXrpCu1ya2OO-Lw&s" alt="Html" width="50" height="50"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS40m8v5A5TESFFeH4jcGFbE6H6HIjxdLt9sQ&s" alt="CSS" width="50" height="50"> <img src="https://i0.wp.com/junilearning.com/wp-content/uploads/2020/06/python-programming-language.webp?fit=800%2C800&ssl=1" alt="Python" width="50" height="50">
 
 ## Sobre mim:
 - Pronomes: ela/dela
