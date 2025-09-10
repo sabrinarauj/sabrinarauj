@@ -8,7 +8,8 @@
 - 💼 Currently working at Bosch  
 - 🎓 Currently studying at SENAI Roberto Mange  
 - 💻 Interested in Full-Stack Development 
-<br>
+
+  <br>
 
 ## 🚀 Languages
 <div style="display: inline_block">
@@ -16,6 +17,8 @@
   <img align="center" alt="Sabrina-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Sabrina-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Sabrina-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Sabrina-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+          
 </div>
 <br>
 
@@ -28,12 +31,14 @@
    <img align="center" alt="Sabrina-Pycharm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" />
    <img align="center" alt="Sabrina-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />   
    <img align="center" alt="Sabrina-FastAPI" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" />
-   <img align="center" alt="Sabrina-Mysql" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />             
+   <img align="center" alt="Sabrina-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" /> 
+   <img align="center" alt="Sabrina-Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
+   
 </div>
 <br>
 <br>
 
-## 📧 Contact me
+## 📧 Contact me <3
 <div> 
   <a href="https://instagram.com/sabrillows" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:sabrina65araujo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
