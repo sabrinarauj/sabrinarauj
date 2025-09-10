@@ -26,7 +26,7 @@
 <div style="display: inline_block">
    <img align="center" alt="Sabrina-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
    <img align="center" alt="Sabrina-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
-   <img align="center" alt="Sabrina-VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
+  <img align="center" alt="Sabrina-VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />  
    <img align="center" alt="Sabrina-Intellij" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />   
    <img align="center" alt="Sabrina-Pycharm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" />
    <img align="center" alt="Sabrina-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />   
