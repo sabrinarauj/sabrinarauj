@@ -84,6 +84,6 @@
 <br>
 
 ### Thank you for visiting my profile! ✨
-<p>Feel free to check out my projects and reach out anytime
+<p>Feel free to check out my projects and reach out anytime. <br>
   I'm always open to exchanging ideas and discovering new horizons
 </p>
