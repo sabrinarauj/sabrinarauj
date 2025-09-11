@@ -5,11 +5,10 @@
 <br>
 
 - 🌷 18 years old | 📍 Brazil  
-- 💼 Currently working at Bosch  
-- 🎓 Currently studying at SENAI Roberto Mange  
+- 💼 Working at Bosch | Digital Solutions
+- 🎓 Studying at SENAI Roberto Mange | Systems Development  
 - 💻 Interested in Full-Stack Development 
-
-  <br>
+<br>
 
 ## 🚀 Languages
 <div style="display: inline_block">
