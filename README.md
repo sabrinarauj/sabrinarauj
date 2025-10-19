@@ -4,7 +4,7 @@
 <img src="https://i.pinimg.com/originals/0e/4a/b5/0e4ab58b389c553ccebacb55e74977cf.gif" alt="gif pixel art" width="350"/>
 <br>
 
-- 🌷 18 years old | 📍 Brazil  
+- 🌷 19 years old | 📍 Brazil  
 - 💼 Working at Bosch | Digital Solutions
 - 🎓 Studying at SENAI Roberto Mange | Systems Development  
 - 💻 Interested in Full-Stack Development 
