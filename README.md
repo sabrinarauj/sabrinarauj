@@ -6,7 +6,7 @@
 
 - 🌷 19 years old | 📍 Brazil  
 - 💼 Working at Bosch | Digital Solutions
-- 🎓 Studying at SENAI Roberto Mange | Systems Development  
+- 🎓 Studying at SENAI Roberto Mange - System Development | System Development - USF   
 - 💻 Interested in Full-Stack Development 
 <br>
 
@@ -17,7 +17,8 @@
   <img align="center" alt="Sabrina-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
   <img align="center" alt="Sabrina-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
   <img align="center" alt="Sabrina-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-          
+  <img align="center" alt="Sabrina-Java" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+                
 </div>
 <br>
 
@@ -27,6 +28,7 @@
     <img align="center" alt="Sabrina-Vitejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" />
     <img align="center" alt="Sabrina-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
     <img align="center" alt="Sabrina-FastAPI" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" />
+    <img align="center" alt="Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
                  
 </div>
 <br>
