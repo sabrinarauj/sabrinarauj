@@ -7,7 +7,7 @@
 - 🌷 19 years old | 📍 Brazil  
 - 💼 Working at Bosch | Digital Solutions
 - 🎓 Studying at SENAI Roberto Mange - System Development  
-- 💻 Interested in Full-Stack Development 
+- 💻 Interested in Front-end Development 
 <br>
 
 ## 🚀 Languages
