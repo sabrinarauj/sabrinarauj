@@ -1,92 +1,33 @@
-## Hello, developers! I'm Sabrina ★
-<br>
+<div align="center">
 
-<img src="https://i.pinimg.com/originals/0e/4a/b5/0e4ab58b389c553ccebacb55e74977cf.gif" alt="gif pixel art" width="350"/>
-<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=C77DFF&size=40&center=true&vCenter=true&width=1000&lines=Welcome+to+my+profile+%3C3)](https://git.io/typing-svg)
 
-- 🌷 19 years old | 📍 Brazil  
-- 💼 Working at Bosch | Digital Solutions
-- 🎓 Studying at SENAI Roberto Mange - System Development  
-- 💻 Interested in Front-end Development 
-<br>
+</div><br>
 
-## 🚀 Languages
-<div style="display: inline_block">
-  <img align="center" alt="Sabrina-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
-  <img align="center" alt="Sabrina-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-  <img align="center" alt="Sabrina-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-  <img align="center" alt="Sabrina-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-  <img align="center" alt="Sabrina-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-  <img align="center" alt="Sabrina-Java" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-                
+<div align="center">
+
+  ## ୨ৎ About Me ♡
+
+🖥️ 19 y/o Software Developer<br>
+📚 Student at SENAI <br>
+
 </div>
-<br>
 
-## ⚡ Frameworks
-<div style="display: inline_block">
-    <img align="center" alt="Sabrina-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
-    <img align="center" alt="Sabrina-Vitejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" />
-    <img align="center" alt="Sabrina-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
-    <img align="center" alt="Sabrina-FastAPI" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" />
-    <img align="center" alt="Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
-                 
+<div align="center"> 
+<div style="display: inline_block" align="center"><br>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,ts,js,css&perline=20" width="30%"/>
 </div>
-<br>
 
-## ⚙️ Tools
-<div style="display: inline_block">
-   <img align="center" alt="Sabrina-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
-   <img align="center" alt="Sabrina-VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />  
-   <img align="center" alt="Sabrina-Intellij" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />   
-   <img align="center" alt="Sabrina-Pycharm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" />
-   <img align="center" alt="Sabrina-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />   
-   <img align="center" alt="Sabrina-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" /> 
-   <img align="center" alt="Sabrina-Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
-  <img align="center" alt="Sabrina-npm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original.svg" />
-          
-   
+<div style="display: inline_block" align="center"><br>
+  <img src="https://skillicons.dev/icons?i=python,java,spring,django,mysql&perline=20" width="30%"/>
 </div>
-<br>
-<br>
 
-## ⭐ GitHub Stats
-
-<table>
-  <tr>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api?username=sabrinarauj&theme=buefy&show_icons=true&hide_border=true&count_private=true" 
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=sabrinarauj&theme=buefy&hide_border=true"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <br />
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabrinarauj&theme=buefy&show_icons=true&hide_border=true&layout=compact"
-        alt="Github Stats"
-      />
-    </td>
-  </tr>
-</table>
 <br>
+  <div align="center">
+    <h2>Contact me ୭ ˚⊹ </h2>
+    <a href="https://www.linkedin.com/in/sabrina-ara%C3%BAjo-700690326" target="_blank" rel="next">
+      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    </a>
+  </div>
+  <br>
 
-## 📧 Contact me <3
-<div> 
-  <a href = "mailto:sabrina65araujo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/sabrina-araújo-700690326" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-<br>
-
-### Thank you for visiting my profile! ✨
-<p>Feel free to check out my projects and reach out anytime. <br>
-  I'm always open to exchanging ideas and discovering new horizons
-</p>
