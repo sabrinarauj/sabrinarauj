@@ -21,13 +21,17 @@
 <div style="display: inline_block" align="center"><br>
   <img src="https://skillicons.dev/icons?i=python,java,spring,django,mysql&perline=20" width="30%"/>
 </div>
+<br>
+
+<div align="center">
+
+## ୭ Contact me ˚⊹
+
+<a href="https://www.linkedin.com/in/sabrina-ara%C3%BAjo-700690326" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+</div>
 
 <br>
-  <div align="center">
-    <h2>Contact me ୭ ˚⊹ </h2>
-    <a href="https://www.linkedin.com/in/sabrina-ara%C3%BAjo-700690326" target="_blank" rel="next">
-      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-    </a>
-  </div>
-  <br>
 
