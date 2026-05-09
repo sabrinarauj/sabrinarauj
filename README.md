@@ -15,7 +15,7 @@
 
 <div align="center"> 
 <div style="display: inline_block" align="center"><br>
-  <img src="https://skillicons.dev/icons?i=react,tailwind,ts,js,css&perline=20" width="30%"/>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,ts,js,css,flutter&perline=20" width="30%"/>
 </div>
 
 <div style="display: inline_block" align="center"><br>
