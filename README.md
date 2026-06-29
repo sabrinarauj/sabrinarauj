@@ -9,7 +9,7 @@
   ## ୨ৎ About Me ♡
 
 🖥️ 19 y/o Software Developer<br>
-📚 Student at SENAI <br>
+📚 Graduated in Systems Development at SENAI <br>
 
 </div>
 
