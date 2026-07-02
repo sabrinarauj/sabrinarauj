@@ -19,7 +19,7 @@
 </div>
 
 <div style="display: inline_block" align="center"><br>
-  <img src="https://skillicons.dev/icons?i=python,java,spring,django,mysql&perline=20" width="30%"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,django,python,mysql,git&perline=20" width="30%"/>
 </div>
 <br>
 
