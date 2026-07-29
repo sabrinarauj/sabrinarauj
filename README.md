@@ -9,7 +9,8 @@
   ## ୨ৎ About Me ♡
 
 🖥️ 19 y/o Software Developer<br>
-📚 Graduated in Systems Development at SENAI <br>
+🎓 Graduated in Systems Development at SENAI <br>
+📚 Current studying Systems Development at IFSP <br>
 
 </div>
 
