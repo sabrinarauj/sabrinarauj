@@ -12,7 +12,7 @@
   
   ## ୨ৎ About Me ♡
 
-🖥️ 19 y/o Software Developer<br>
+🖥️ 20 y/o Software Developer<br>
 📚 Current studying Systems Development <br>
 
 </div>
