@@ -4,8 +4,12 @@
 
 </div><br>
 
-<div align="center">
+<p align="center">
+  Visit my <a href="https://sabrina-araujo-chi.vercel.app/">Portfolio</a> and take a look at some of my projects.
+</p>
 
+<div align="center">
+  
   ## ୨ৎ About Me ♡
 
 🖥️ 19 y/o Software Developer<br>
